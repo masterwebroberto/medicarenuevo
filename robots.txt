@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Declaración del sitemap oficial para facilitar el descubrimiento de URLs
+Sitemap: https://masterwebroberto.github.io/medicarenuevo/sitemap.xml
