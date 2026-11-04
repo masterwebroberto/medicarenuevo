@@ -1,20 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Página Principal / Inicio -->
+
+  <!-- Inicio / Portada -->
   <url>
     <loc>https://masterwebroberto.github.io/medicarenuevo/</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- Ejemplo de subpágina o sección adicional (reemplaza o duplica según tus necesidades) -->
-  <!-- 
+
+  <!-- Secciones Principales -->
   <url>
-    <loc>https://masterwebroberto.github.io/medicarenuevo/contacto.html</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/citas.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url> 
-  -->
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/doctores.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidades.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/servicios.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Páginas de Especialidades -->
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidad-cardiologia.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidad-cirugia-torax.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidad-dermatologia.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidad-neurologia.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/especialidad-pediatria.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/detalle-especialidad.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Perfiles de Doctores -->
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/doctor-ana-torres.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/doctor-carlos-mendoza.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/doctor-mario-ramirez.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/perfil-doctor.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Acceso / Cuenta de Usuario -->
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/login.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/micuenta.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://masterwebroberto.github.io/medicarenuevo/panel-medico.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
 </urlset>
